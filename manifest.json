@@ -1,0 +1,20 @@
+{
+  "short_name": "React App",
+  "name": "Create React App Sample",
+  "icons": [
+    {
+      
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFwAAABcCAMAAADUMSJqAAAATlBMVEX4+vtffZX8/v5WdpC8x9C3xM5bepPv8/VSdI709/nAy9RyjKHl6u5jgJhphZvV3eOOorPc4+iktMGtvMeGnK7O195JbYl4kaSaq7p+lqlYRmPvAAACRElEQVRoge2Y25KDIBBEBeJIxBhNzMX//9HV5TZGXEDch1Rx3jalnWZoZsgWRSaTyWQyme+BekFPRkoXj5OHWkrSa1n3UfL0zjn7m+dJClbAGBdNuDrtOPEAQhm/sfkv6EPVae3VJvwq1Rquvusc6vwFXuOdMj6oR/kj0Hrj1SakkdoPvUa4hYnThvmk2V1JCe0D3oHOq4uvKK2sMC2NDfN1XuuDpy5MZRy5YH2Y9lRJXJd1xPmIYyjXMgRqzzm31sWpXCF3s+jtUxBqfAJtKeu32gqyELydnwsWG+/ZGE5U4doT9j1eu9Vpa4zzMqovLjqA82TT0jwBbWTPRS2AOQ9fhdYWevSNsau1Dn1lUcugb7ubQ6xx/DYhF41uKrj/sCZWe+owxIEuETrE7qr51O+O/nVRTQXFsI2LoeLcrlqMiaWwxk87jM9x/LRuZhuKodgjPWt8TiQ921AMWWwMDf1ylprZhrvhXu1lHCcldYFonnYtu3ZTUmFtE8MxLYbGeonOqZAu8Si5BF8oXJxt5mB9frYaZqh13LRVyU3XgVeK9NKnHjdmAulk7gd3KB1zvkhmAri3qjKorgMRV9st8FRQG3huU2OowXEk6qPfIZgUQ6Mu1odmhMQYGnE88WSdp4+2bhzR6uj2o3tXlxxDDYoj6DgeJL2YeDAepqqp2qP6iQM88dI6oVPddwFLEkcTjx9w7D/Uu5Trm4+K/V9d7KU64sdyhPqdAxDgIv7eGaLevEU7HB5zrb74H04mk8lkMpnv5Aco1hUcZbrKBAAAAABJRU5ErkJggg==",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
