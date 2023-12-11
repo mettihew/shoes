@@ -1,2 +1,0 @@
-.imgDiv{align-items:center;background-color:#d6dee4;display:flex;justify-content:center}.imgDiv img{width:10%}.green{background-color:green;height:60vh;width:100%}.leftRight{align-items:center;display:flex;justify-content:center}.left{background-color:orange;display:flex;flex-wrap:wrap;width:70%}.left img,.right{width:30%}.right img{width:50%}@media screen and (max-width:700px){.leftRight{display:grid}.left,.right{width:100%}}
-/*# sourceMappingURL=main.08676623.css.map*/
