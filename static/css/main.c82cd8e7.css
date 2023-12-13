@@ -1,2 +1,0 @@
-body{display:flex;justify-content:center}#root{max-width:1000px}.green{background-color:green;height:60vh;width:100%}.box img{object-fit:cover;width:25%}.see{background-color:#000;color:#fff;cursor:pointer;display:flex;justify-content:space-around;margin-bottom:30px}@media screen and (max-width:500px){.box img{width:50%}.green{height:30vh}}@media screen and (min-width:500px) and (max-width:800px){.box img{width:33.3333333333333%}.green{height:45vh}}
-/*# sourceMappingURL=main.c82cd8e7.css.map*/
