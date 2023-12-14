@@ -1,2 +1,0 @@
-#root{max-width:1000px}body{display:flex;font-family:Amazon Ember,sans-serif;justify-content:center;margin:0}.green{background-color:green;height:60vh;width:100%}.box img{width:25%}.box img,.see{cursor:pointer}.see{background-color:#000;color:#fff;display:flex;justify-content:space-around}@media screen and (max-width:500px){.box img{width:50%}.green{height:30vh}}@media screen and (min-width:500px) and (max-width:800px){.box img{width:33.3333333333333%}.green{height:45vh}}
-/*# sourceMappingURL=main.cae3d1a7.css.map*/
