@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/shoes/static/css/main.8bc75218.css",
-    "main.js": "/shoes/static/js/main.881240b9.js",
+    "main.css": "/shoes/static/css/main.b135c8ef.css",
+    "main.js": "/shoes/static/js/main.58439178.js",
     "static/media/shoe1.jpg": "/shoes/static/media/shoe1.e5ecd7f9b92aae0d5b03.jpg",
     "static/media/shoe2.jpg": "/shoes/static/media/shoe2.5736443e773e0d36f0d7.jpg",
     "static/media/shoe3.jpg": "/shoes/static/media/shoe3.8bd3e84af10ce96df8d2.jpg",
@@ -9,11 +9,11 @@
     "static/media/axios.cjs": "/shoes/static/media/axios.41e4fd9e0e3281c1577b.cjs",
     "static/media/shoe5.jpg": "/shoes/static/media/shoe5.49835c7c39307763d234.jpg",
     "index.html": "/shoes/index.html",
-    "main.8bc75218.css.map": "/shoes/static/css/main.8bc75218.css.map",
-    "main.881240b9.js.map": "/shoes/static/js/main.881240b9.js.map"
+    "main.b135c8ef.css.map": "/shoes/static/css/main.b135c8ef.css.map",
+    "main.58439178.js.map": "/shoes/static/js/main.58439178.js.map"
   },
   "entrypoints": [
-    "static/css/main.8bc75218.css",
-    "static/js/main.881240b9.js"
+    "static/css/main.b135c8ef.css",
+    "static/js/main.58439178.js"
   ]
 }
